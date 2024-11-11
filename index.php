@@ -78,6 +78,7 @@
 						Por: astrid cabrera
 						<div class="shop-menu pull-right">
 							<ul class="nav navbar-nav">
+								<li><a href="agregarproductos.php" target="_blank"><i class="fa fa-plus"></i>Agregar</a></li>
 								<li><a href="checkout.php"><i class="fa fa-crosshairs"></i> Pagar</a></li>
 								<li><a href="cart.php"><i class="fa fa-shopping-cart"></i> Carrito</a></li>
 								<li><a href="login.php"><i class="fa fa-lock"></i> Login</a></li>
